@@ -4,20 +4,19 @@ body {
   font-family: 'Happy Monkey', cursive;
   font-family: 'Orbitron', sans-serif;
   font-family: 'Permanent Marker', cursive;
-  font-family: /*'Rubik 80s Fade', cursive;*/
 }
 #header {
   color: #f8f9fa;
-  border: 5px solid #1dd3b0;
   border-radius: 10px;
   width: 700px;
   background: linear-gradient(#111111, #1dd3b0);
   text-shadow: 2px 2px 3px grey;
-  margin: 0px auto 40px;
+  margin: 0px auto 60px;
+  padding-bottom: 20px;
 }
 #selfy {
+  margin-top: 10px;
   width: 130px;
-  border: 7px solid #111111;
   border-radius: 20px;
   box-shadow: 0px 0px 5px #f8f9fa;
 }
@@ -33,6 +32,7 @@ body {
   border-radius: 10px;
   padding: 0px 10px;
   box-shadow: 3px 3px 5px black;
+  margin-bottom: 20px;
 }
 .mystuff:hover{
   background: #1dd3b0;
@@ -43,8 +43,7 @@ body {
   margin: 0px auto 0px;
 }
 .upper {
-  text-shadow: 2px 2px 3px #1dd3b0;
-  background: black;
+  background: #111111;
   border-top: 5px solid #1dd3b0;
   border-bottom: 5px solid #1dd3b0;
   margin: -8px -10px;
@@ -67,10 +66,11 @@ body {
 #skull_imgs {
   box-shadow: 0px 0px 4px;
   border-radius: 20px;
-  width: 400px;
+  width: 600px;
   margin: 10px auto;
 }
 .bttns {
+  font-weight: bold;
   margin: 10px 10px;
   padding: 5px 10px;
   border-radius: 20px;
@@ -90,7 +90,7 @@ body {
   background: #f8f9fa;
   box-shadow: 0px 0px 4px;
   border-radius: 20px;
-  width: 400px;
+  width: 600px;
   margin: 10px auto;
 }
 .Freehand_img {
@@ -102,7 +102,7 @@ body {
   background: #f8f9fa;
   box-shadow: 0px 0px 4px;
   border-radius: 20px;
-  width: 400px;
+  width: 600px;
   margin: 10px auto;
 }
 .Digitalart_img {
@@ -114,7 +114,7 @@ body {
   background: #f8f9fa;
   box-shadow: 0px 0px 4px;
   border-radius: 20px;
-  width: 400px;
+  width: 600px;
   margin: 10px auto;
 }
 .contacts {
