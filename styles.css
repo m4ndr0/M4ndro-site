@@ -76,6 +76,7 @@ body {
   border-radius: 20px;
   border: 0px;
   box-shadow: 0px 0px 3px;
+  cursor: pointer;
 }
 .bttns:hover{
   background: #111111;
